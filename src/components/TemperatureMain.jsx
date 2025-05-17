@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Kelvin from './Kelvin'
-import Celsius from './celsius'
+import Celsius from './Celsius'
 
 const TemperatureMain = () => {
 
